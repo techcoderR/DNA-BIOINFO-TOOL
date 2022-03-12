@@ -3,6 +3,7 @@
 # DNA-BIOINFO-TOOL
 DNA BIOINFO TOOL USINH STREAMLIT
 
+
 Information about four components present in DNA SEQENCE
 <ul>
   <li>adenine (A)</li>
@@ -10,4 +11,6 @@ Information about four components present in DNA SEQENCE
 <li>guanine (G)</li>
 <li>cytosine (C)</li>
 
-</ul>?
+</ul>
+<p>PREVIEW </p>
+<img src="dnadata.jpg" width="800px" height="400px">
