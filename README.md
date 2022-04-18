@@ -1,4 +1,4 @@
-<a href="https://share.streamlit.io/techcoderr/dna-bioinfo-tool/main/bioinfo.py">Open in stremlit</a>
+<a href="https://share.streamlit.io/techcoderr/dna-bioinfo-tool/main/bioinfo.py" target="_blank">Open in stremlit</a>
 
 # DNA-BIOINFO-TOOL
 DNA BIOINFO TOOL USINH STREAMLIT
